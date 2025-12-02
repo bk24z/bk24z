@@ -20,7 +20,7 @@ Raspberry Pi and other hardware - I have used these in some of the projects I ha
 
 [![My Skills](https://skillicons.dev/icons?i=py,swift,raspberrypi)](https://skillicons.dev)
 
-### 📊 My Week in Development
+### 📊 My Last 30 Days in Development
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
