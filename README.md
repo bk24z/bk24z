@@ -23,6 +23,17 @@ Raspberry Pi and other hardware - I have used these in some of the projects I ha
 ### 📊 My Last 30 Days in Development
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 11 hrs 42 mins
+
+Python     10 hrs 58 mins  >>>>>>>>>>>>>>>>>>-------   73.36 %
+Other      3 hrs 14 mins   >>>>>--------------------   21.66 %
+Haskell    36 mins         >------------------------   04.05 %
+YAML       5 mins          -------------------------   00.62 %
+Markdown   2 mins          -------------------------   00.28 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 🏆 My GitHub Stats
