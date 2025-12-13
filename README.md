@@ -1,5 +1,7 @@
 ### 👋🏾 Hi, I'm Bradley!
 
+[![wakatime](https://wakatime.com/badge/user/ed351a08-bb16-4e02-a4c0-3bd7d7356b5d.svg)](https://wakatime.com/@ed351a08-bb16-4e02-a4c0-3bd7d7356b5d)
+
 <img width="2560" height="720" alt="Mii Banner" src="https://github.com/user-attachments/assets/3836d7c8-1399-4e71-84e8-b868f391ff0d" />
 
 <br>
