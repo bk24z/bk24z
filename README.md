@@ -44,6 +44,8 @@ CSV              8 mins          -------------------------   00.53 %
 
 [![Bradley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bk24z)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ### 🏁 My LeetCode Stats
 
 [![Bradley's LeetCode Stats](https://leetcard.jacoblin.cool/bk24z?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/bk24z/)
+-->
