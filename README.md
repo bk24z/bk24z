@@ -29,11 +29,11 @@ Raspberry Pi and other hardware - I have used these in some of the projects I ha
 ```txt
 Total Time: 33 hrs 12 mins
 
-Python           23 hrs 46 mins  >>>>>>>>>>>>>>>>>>-------   71.61 %
-Java             5 hrs 47 mins   >>>>---------------------   17.46 %
-TOML             1 hr 27 mins    >------------------------   04.38 %
-HTML             47 mins         >------------------------   02.40 %
-CSS              31 mins         -------------------------   01.58 %
+Python           23 hrs 46 mins        >>>>>>>>>>>>>>>>>>-------   71.61 %
+Java             5 hrs 47 mins         >>>>---------------------   17.46 %
+TOML             1 hr 27 mins          >------------------------   04.38 %
+HTML             47 mins               >------------------------   02.40 %
+CSS              31 mins               -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
