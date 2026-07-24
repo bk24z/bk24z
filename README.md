@@ -27,13 +27,13 @@ Raspberry Pi and other hardware - I have used these in some of the projects I ha
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 46 hrs 6 mins
+Total Time: 49 hrs 53 mins
 
-CSS              26 hrs 6 mins         >>>>>>>>>>>>>>-----------   56.60 %
-HTML             12 hrs 55 mins        >>>>>>>------------------   28.03 %
-JavaScript       6 hrs 51 mins         >>>>---------------------   14.86 %
-JSON             6 mins                -------------------------   00.24 %
-GitIgnore file   4 mins                -------------------------   00.15 %
+CSS              27 hrs 47 mins        >>>>>>>>>>>>>>-----------   55.68 %
+HTML             14 hrs 5 mins         >>>>>>>------------------   28.25 %
+JavaScript       7 hrs 46 mins         >>>>---------------------   15.59 %
+JSON             6 mins                -------------------------   00.22 %
+GitIgnore file   4 mins                -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
