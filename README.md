@@ -29,7 +29,8 @@ Raspberry Pi and other hardware - I have used these in some of the projects I ha
 ```txt
 Total Time: 18 mins
 
-CSS   18 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+CSS    18 mins               >>>>>>>>>>>>>>>>>>>>>>>>-   97.30 %
+HTML   0 secs                >------------------------   02.70 %
 ```
 
 <!--END_SECTION:waka-->
