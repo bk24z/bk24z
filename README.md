@@ -9,7 +9,7 @@
 ---
 
 👨🏾‍💻 My name is Bradley Austin, and I go by bk24z on most platforms.<br>
-🎓 I am a first year Computer Science student at The University of Edinburgh.<br>
+🎓 I am a second year Computer Science student at The University of Edinburgh.<br>
 <!--🔭 I’m currently working on a motion/camera controlled bowling game for the Edinburgh Makerspace Student Technician Award.<br>
 🌱 I’m currently taking the time to refine my skills in Python and explore other languages/frameworks.<br>
 🤔 I’m interested in frontend/backend/mobile dev, AI, ML and potentially cybersecurity. I am yet to find my niche, and trying to develop my skills in all of these areas so that I can make an informed decision.-->
