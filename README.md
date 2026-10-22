@@ -1,6 +1,6 @@
 ### 👋🏾 Hi, I'm Bradley!
 
-[![wakatime](https://wakatime.com/badge/user/ed351a08-bb16-4e02-a4c0-3bd7d7356b5d.svg)](https://wakatime.com/@ed351a08-bb16-4e02-a4c0-3bd7d7356b5d)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/wakatime/bk24z.svg?mode=dark"><img alt="badge" src="https://shieldcn.dev/wakatime/bk24z.svg?mode=light"></picture>
 
 <img width="2560" height="720" alt="Mii Banner" src="https://github.com/user-attachments/assets/3836d7c8-1399-4e71-84e8-b868f391ff0d" />
 
@@ -21,7 +21,7 @@
 Swift/SwiftUI - I have some experience in building SwiftUI apps<br>
 Raspberry Pi and other hardware - I have used these in some of the projects I have worked on-->
 
-[![My Skills](https://skillicons.dev/icons?i=py,javascript,html,css,react)](https://skillicons.dev)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Swift-F05138.svg?logo=swift&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Swift" src="https://www.shieldcn.dev/badge/-Swift-F05138.svg?logo=swift&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
 
 ### 📊 My Last 30 Days in Development
 
@@ -50,3 +50,5 @@ Markdown      46 mins               >>-----------------------   06.84 %
 
 [![Bradley's LeetCode Stats](https://leetcard.jacoblin.cool/bk24z?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/bk24z/)
 -->
+
+<div align="center">
