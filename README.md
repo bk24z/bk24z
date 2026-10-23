@@ -2,7 +2,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/wakatime/bk24z.svg?mode=dark"><img alt="badge" src="https://shieldcn.dev/wakatime/bk24z.svg?mode=light"></picture>
 
-<img width="2560" height="720" alt="Mii Banner" src="https://github.com/user-attachments/assets/3836d7c8-1399-4e71-84e8-b868f391ff0d" />
+<!-- <img width="2560" height="720" alt="Mii Banner" src="https://github.com/user-attachments/assets/3836d7c8-1399-4e71-84e8-b868f391ff0d" /> -->
+<img width="2560" height="720" alt="mii_banner" src="https://github.com/user-attachments/assets/d6387dfb-e80b-4ab7-a066-73138a099942" />
 
 <br>
 
